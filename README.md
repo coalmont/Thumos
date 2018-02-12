@@ -6,3 +6,8 @@ This is where Volunteer Coders from around the world come together to build a cl
 - [Thumos wiki](https://github.com/ri4c/Thumos/wiki) - For our collaborative editing
 - [Thumos Repository](https://github.com/ri4c/Thumos) - For our source code and documents
 - [Thumos Directory at Ri4C](https://ri4c.com/thumos/) - FAQ and such
+
+## FAQ
+* What's new here for high school students?
+* What's new here for colllege students?
+* What's new here for parents?
